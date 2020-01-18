@@ -23,7 +23,6 @@ public class XLSXHandler {
        
         // Return first sheet from the XLSX workbook
         XSSFSheet mySheet = myWorkBook.getSheetAt(0);
-       
         // Get iterator to all the rows in current sheet
         Iterator<Row> rowIterator = mySheet.iterator();
        

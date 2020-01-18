@@ -2,11 +2,11 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/benic/Desktop/IRProject/commons-codec-1.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/benic/Desktop/IRProject/poi-3.11-beta2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/benic/Desktop/IRProject/poi-ooxml-3.11-beta2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/benic/Desktop/IRProject/poi-ooxml-schemas-3.11-beta2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/benic/Desktop/IRProject/stax-api-1.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/benic/Desktop/IRProject/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/benic/Desktop/InformationRetrieval/IRProject/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/benic/Desktop/InformationRetrieval/IRProject/poi-3.11-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/benic/Desktop/InformationRetrieval/IRProject/poi-ooxml-3.11-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/benic/Desktop/InformationRetrieval/IRProject/poi-ooxml-schemas-3.11-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/benic/Desktop/InformationRetrieval/IRProject/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/benic/Desktop/InformationRetrieval/IRProject/xmlbeans-2.6.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
