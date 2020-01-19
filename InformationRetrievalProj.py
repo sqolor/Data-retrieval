@@ -2,12 +2,13 @@
 """
 Created on Mon Jan 13 20:23:23 2020
 
-@author: benic
+@author: benic and mikeyg
 """
 import pandas as pd
 import os
 
 from openpyxl import load_workbook
+import nltk
 
 def iter_rows(ws):
     result=[]
@@ -20,15 +21,12 @@ def iter_rows(ws):
 
 workbook = load_workbook(filename='data.xlsx', read_only = True)
 worksheet = workbook['sheet']
-
 fileList =  (list(iter_rows(worksheet)))
 geoLocation = []
 tweet = []
-
+i=2
 for col in fileList:
-    geoLocation.append(col[5])#1 is column index
-    tweet.append(col[6])#2 is column index
-    
-
-    
-
+    geoLocation.append(col[5]) #1 is column index
+    tweet.append("DOCID"+str(i)+" "+col[6]) #2 is column index
+    i=i+1
+print(tweet)
