@@ -34,17 +34,22 @@ tweet = []
 i = 2
 for col in fileList:
     geoLocation.append(col[5])  # 1 is column index
-    tweet.append("DOCID" + str(i) + " " + col[6])  # 2 is column index
+    tweet.append('DOCID' + str(i) + " " + col[6])  # 2 is column index
     i = i + 1
 stop_words = set(stopwords.words('english'))
 word_tokens = word_tokenize(str(tweet))
 filtered_sentence = []
 current_doc = ''
-diction = dict()
+diction = {}
 for w in word_tokens:
     if w not in stop_words:
         if "DOCID" in w:
             current_doc = w
         else:
-            #diction.update(w=diction.get(w).append(current_doc))
-    #TODO finish creating dictionary
+            if w in diction.keys():
+                # diction.update(w=diction.get(w) + current_doc)
+                diction[w] = diction.get(w) + " " + current_doc
+            else:
+                diction[w] = current_doc
+    # TODO finish creating dictionary
+print(diction["Things"])
