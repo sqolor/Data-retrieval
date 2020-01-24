@@ -14,7 +14,7 @@ from openpyxl import load_workbook
 import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
-
+from nltk.stem import PorterStemmer
 
 def iter_rows(ws):
     result = []
@@ -41,13 +41,15 @@ word_tokens = word_tokenize(str(tweet))
 filtered_sentence = []
 current_doc = ''
 diction = {}
+ps = PorterStemmer()
 for w in word_tokens:
     if w not in stop_words:
         if "DOCID" in w:
-            current_doc = w
+            current_doc = w.casefold()
         else:
             if w in diction.keys():
                 # diction.update(w=diction.get(w) + current_doc)
+                w.casefold()
                 diction[w] = diction.get(w) + " " + current_doc
             else:
                 diction[w] = current_doc
