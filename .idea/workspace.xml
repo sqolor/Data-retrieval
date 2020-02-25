@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66b2fa7c-de37-443c-a271-b122af0e1dd4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="66b2fa7c-de37-443c-a271-b122af0e1dd4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,7 +18,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/IRProject/wordclouder.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/InformationRetrievalProj.py" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
@@ -39,11 +30,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IRProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IRProject/wordclouder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InformationRetrievalProj.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,34 +70,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580993157087">
+    <state x="137" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579463111691">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="137" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1580993157087" />
+    <state x="137" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1579463111691" />
     <state x="463" y="90" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1579462694977">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="90" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.768@0.0.1366.768" timestamp="1579462694977" />
-    <state x="463" y="140" key="FileChooserDialogImpl" timestamp="1580993155479">
+    <state x="463" y="140" key="FileChooserDialogImpl" timestamp="1579460961893">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="140" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1580993155479" />
-    <state width="672" height="192" key="GridCell.Tab.0.bottom" timestamp="1581000107847">
+    <state x="463" y="140" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1579460961893" />
+    <state width="1345" height="238" key="GridCell.Tab.0.bottom" timestamp="1579470114380">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="672" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581000107847" />
-    <state width="672" height="192" key="GridCell.Tab.0.center" timestamp="1581000107847">
+    <state width="1345" height="238" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1579470114380" />
+    <state width="1345" height="238" key="GridCell.Tab.0.center" timestamp="1579470114379">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="672" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581000107847" />
-    <state width="672" height="192" key="GridCell.Tab.0.left" timestamp="1581000107847">
+    <state width="1345" height="238" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1579470114379" />
+    <state width="1345" height="238" key="GridCell.Tab.0.left" timestamp="1579470114379">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="672" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581000107847" />
-    <state width="672" height="192" key="GridCell.Tab.0.right" timestamp="1581000107847">
+    <state width="1345" height="238" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1579470114379" />
+    <state width="1345" height="238" key="GridCell.Tab.0.right" timestamp="1579470114380">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="672" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581000107847" />
+    <state width="1345" height="238" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1579470114380" />
     <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1579470114381">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -123,14 +114,14 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1345" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1579470114381" />
-    <state x="184" y="27" key="SettingsEditor" timestamp="1580989575204">
+    <state x="184" y="27" key="SettingsEditor" timestamp="1579460515819">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="184" y="27" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1580989575204" />
-    <state x="379" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1581267727335">
+    <state x="184" y="27" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1579460515819" />
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1579462597832">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1581267727335" />
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1579462597832" />
     <state x="481" y="74" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579467808061">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
